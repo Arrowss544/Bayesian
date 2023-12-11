@@ -1,5 +1,5 @@
 #2022年第九组贝叶斯网络程序
-#成员：伍世松 吴凡卓 林振宇
+#成员：
 #用到的第三方库 matplotlib networkx numpy
 #吉布斯采样函数
 def gibbs_sampling(cpt,all_dots,inquire_dot_states,evidence_dot_states,inquire_number):
